@@ -1,0 +1,30 @@
+.nav-bar{
+    display: inline;
+    margin: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+#nav_bar1{
+    font-size: 2rem;
+    border-width: 2px;
+    border-style: solid;
+    border-color: yellow;
+    box-shadow: 0 5px 5px 0px rgba(0,0,0,0.3);
+    background-image: linear-gradient(to right, rgb(236, 204, 26) , rgb(255, 255, 255));
+}
+#nav{
+    background-image: linear-gradient(to right, rgb(236, 163, 26) , rgb(211, 233, 116));
+}
+#img{
+    width: 100%;
+    height: 690px;
+    margin-top: 1%;
+}
+body{
+    background-image: linear-gradient(to right, rgb(236, 163, 26) , rgb(211, 233, 116));
+}
+a{
+    
+}
